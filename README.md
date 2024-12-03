@@ -1,7 +1,12 @@
-# Email_Sender
+# Python Email Automation Tool
 
-In this project, I developed a simple Python program that automates the process of sending emails. The program allows users to input the recipient's email address, subject, and message content, making it easy to send personalized emails with just a few lines of code.
+## What I Did
+I created a Python-based tool to automate email sending using the SMTP protocol. The tool allows users to customize recipients, subjects, and body content.
 
-I utilized Python's built-in libraries to handle email sending securely and efficiently. Please note that for privacy and security reasons, I have omitted my personal email addresses and passwords in this project. This ensures that sensitive information remains confidential while demonstrating the functionality of the email-sending process.
+## Why I Did This Project
+I wanted to explore automation workflows and learn how to integrate Python with real-world email protocols for productivity enhancements.
 
-Youtube Video: https://youtu.be/S1bJL7jbYik
+## What I Accomplished
+- Built a functional email-sending script.
+- Gained hands-on experience with the `smtplib` library and email security protocols.
+- Enhanced my skills in developing automation tools.
